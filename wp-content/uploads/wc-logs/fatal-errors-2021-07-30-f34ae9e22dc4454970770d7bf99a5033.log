@@ -1,0 +1,50 @@
+2021-07-30T07:46:17+00:00 CRITICAL D:\wamp64\www\wp-includes\Requests\Transport\cURL.php 中第 165 行的 Maximum execution time of 120 seconds exceeded
+
+2021-07-30T08:08:03+00:00 CRITICAL D:\wamp64\www\wp-content\plugins\translatepress-multilingual\partials\test-api-settings-page.php 中第 25 行的 Uncaught Error: Cannot use object of type WP_Error as array in D:\wamp64\www\wp-content\plugins\translatepress-multilingual\partials\test-api-settings-page.php:25
+Stack trace:
+#0 D:\wamp64\www\wp-content\plugins\translatepress-multilingual\includes\class-machine-translation-tab.php(99): require_once()
+#1 D:\wamp64\www\wp-includes\class-wp-hook.php(303): TRP_Machine_Translation_Tab->test_api_page_content('')
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#3 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#4 D:\wamp64\www\wp-admin\admin.php(259): do_action('admin_page_trp_...')
+#5 {main}
+  thrown
+
+2021-07-30T08:56:56+00:00 CRITICAL D:\wamp64\www\wp-content\plugins\elementor\includes\managers\widgets.php 中第 305 行的 Uncaught Error: Call to a member function is_editable_by_current_user() on bool in D:\wamp64\www\wp-content\plugins\elementor\includes\managers\widgets.php:305
+Stack trace:
+#0 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 D:\wamp64\www\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(303): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\wp-admin\admin-ajax.php(187): do_action('wp_ajax_element...')
+#6 {main}
+  thrown
+
+2021-07-30T09:20:11+00:00 CRITICAL D:\wamp64\www\wp-includes\Requests\Transport\cURL.php 中第 165 行的 Maximum execution time of 120 seconds exceeded
+
+2021-07-30T09:24:55+00:00 CRITICAL D:\wamp64\www\wp-includes\Requests\Transport\cURL.php 中第 165 行的 Maximum execution time of 120 seconds exceeded
+
+2021-07-30T09:27:42+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in D:\wamp64\www\wp-includes\Requests\Transport\cURL.php on line 165
+
+2021-07-30T09:29:44+00:00 CRITICAL D:\wamp64\www\wp-includes\Requests\Transport\cURL.php 中第 165 行的 Maximum execution time of 120 seconds exceeded
+
+2021-07-30T09:33:25+00:00 CRITICAL Uncaught Error: Call to a member function is_editable_by_current_user() on bool in D:\wamp64\www\wp-content\plugins\elementor\includes\managers\widgets.php:305
+Stack trace:
+#0 [internal function]: Elementor\Widgets_Manager->ajax_render_widget(Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#1 D:\wamp64\www\wp-content\plugins\elementor\core\common\modules\ajax\module.php(171): call_user_func(Array, Array, Object(Elementor\Core\Common\Modules\Ajax\Module))
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(303): Elementor\Core\Common\Modules\Ajax\Module->handle_ajax_request('')
+#3 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters('', Array)
+#4 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\wp-admin\admin-ajax.php(187): do_action('wp_ajax_element...')
+#6 {main}
+  thrown in D:\wamp64\www\wp-content\plugins\elementor\includes\managers\widgets.php on line 305
+
+2021-07-30T09:40:37+00:00 CRITICAL D:\wamp64\www\wp-includes\Requests\Transport\cURL.php 中第 165 行的 Maximum execution time of 120 seconds exceeded
+
+2021-07-30T09:45:48+00:00 CRITICAL D:\wamp64\www\wp-includes\Requests\Transport\cURL.php 中第 165 行的 Maximum execution time of 120 seconds exceeded
+
+2021-07-30T09:50:01+00:00 CRITICAL D:\wamp64\www\wp-includes\Requests\Transport\cURL.php 中第 165 行的 Maximum execution time of 120 seconds exceeded
+
+2021-07-30T09:56:10+00:00 CRITICAL D:\wamp64\www\wp-includes\Requests\Transport\cURL.php 中第 165 行的 Maximum execution time of 120 seconds exceeded
+

@@ -1,0 +1,112 @@
+2021-07-28T01:39:20+00:00 CRITICAL D:\wamp64\www\wp-includes\class-wp-widget-factory.php 中第 61 行的 Uncaught Error: Class 'boj_widgetexample_widget_my_info' not found in D:\wamp64\www\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 D:\wamp64\www\wp-includes\widgets.php(115): WP_Widget_Factory->register('boj_widgetexamp...')
+#1 D:\wamp64\www\wp-content\plugins\login_and_logout_style.php(130): register_widget('boj_widgetexamp...')
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(303): boj_widgetexample_register_widgets('')
+#3 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\wp-includes\widgets.php(1809): do_action('widgets_init')
+#6 D:\wamp64\www\wp-includes\class-wp-hook.php(303): wp_widgets_init('')
+#7 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 D:\wamp64\www\wp-settings.php(578): do_action('init')
+#10 D:\wamp64\www\wp-config.php(90): require_once('D:\\wamp64\
+
+2021-07-28T01:39:20+00:00 CRITICAL D:\wamp64\www\wp-includes\class-wp-widget-factory.php 中第 61 行的 Uncaught Error: Class 'boj_widgetexample_widget_my_info' not found in D:\wamp64\www\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 D:\wamp64\www\wp-includes\widgets.php(115): WP_Widget_Factory->register('boj_widgetexamp...')
+#1 D:\wamp64\www\wp-content\plugins\login_and_logout_style.php(130): register_widget('boj_widgetexamp...')
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(303): boj_widgetexample_register_widgets('')
+#3 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\wp-includes\widgets.php(1809): do_action('widgets_init')
+#6 D:\wamp64\www\wp-includes\class-wp-hook.php(303): wp_widgets_init('')
+#7 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 D:\wamp64\www\wp-settings.php(578): do_action('init')
+#10 D:\wamp64\www\wp-config.php(90): require_once('D:\\wamp64\
+
+2021-07-28T01:39:28+00:00 CRITICAL D:\wamp64\www\wp-includes\class-wp-widget-factory.php 中第 61 行的 Uncaught Error: Class 'boj_widgetexample_widget_my_info' not found in D:\wamp64\www\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 D:\wamp64\www\wp-includes\widgets.php(115): WP_Widget_Factory->register('boj_widgetexamp...')
+#1 D:\wamp64\www\wp-content\plugins\login_and_logout_style.php(130): register_widget('boj_widgetexamp...')
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(303): boj_widgetexample_register_widgets('')
+#3 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\wp-includes\widgets.php(1809): do_action('widgets_init')
+#6 D:\wamp64\www\wp-includes\class-wp-hook.php(303): wp_widgets_init('')
+#7 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 D:\wamp64\www\wp-settings.php(578): do_action('init')
+#10 D:\wamp64\www\wp-config.php(90): require_once('D:\\wamp64\
+
+2021-07-28T01:39:29+00:00 CRITICAL D:\wamp64\www\wp-includes\class-wp-widget-factory.php 中第 61 行的 Uncaught Error: Class 'boj_widgetexample_widget_my_info' not found in D:\wamp64\www\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 D:\wamp64\www\wp-includes\widgets.php(115): WP_Widget_Factory->register('boj_widgetexamp...')
+#1 D:\wamp64\www\wp-content\plugins\login_and_logout_style.php(130): register_widget('boj_widgetexamp...')
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(303): boj_widgetexample_register_widgets('')
+#3 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\wp-includes\widgets.php(1809): do_action('widgets_init')
+#6 D:\wamp64\www\wp-includes\class-wp-hook.php(303): wp_widgets_init('')
+#7 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 D:\wamp64\www\wp-settings.php(578): do_action('init')
+#10 D:\wamp64\www\wp-config.php(90): require_once('D:\\wamp64\
+
+2021-07-28T01:40:30+00:00 CRITICAL D:\wamp64\www\wp-includes\class-wp-widget-factory.php 中第 61 行的 Uncaught Error: Class 'boj_widgetexample_widget_my_info' not found in D:\wamp64\www\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 D:\wamp64\www\wp-includes\widgets.php(115): WP_Widget_Factory->register('boj_widgetexamp...')
+#1 D:\wamp64\www\wp-content\plugins\login_and_logout_style.php(130): register_widget('boj_widgetexamp...')
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(303): boj_widgetexample_register_widgets('')
+#3 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\wp-includes\widgets.php(1809): do_action('widgets_init')
+#6 D:\wamp64\www\wp-includes\class-wp-hook.php(303): wp_widgets_init('')
+#7 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 D:\wamp64\www\wp-settings.php(578): do_action('init')
+#10 D:\wamp64\www\wp-config.php(90): require_once('D:\\wamp64\
+
+2021-07-28T01:40:32+00:00 CRITICAL D:\wamp64\www\wp-includes\class-wp-widget-factory.php 中第 61 行的 Uncaught Error: Class 'boj_widgetexample_widget_my_info' not found in D:\wamp64\www\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 D:\wamp64\www\wp-includes\widgets.php(115): WP_Widget_Factory->register('boj_widgetexamp...')
+#1 D:\wamp64\www\wp-content\plugins\login_and_logout_style.php(130): register_widget('boj_widgetexamp...')
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(303): boj_widgetexample_register_widgets('')
+#3 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\wp-includes\widgets.php(1809): do_action('widgets_init')
+#6 D:\wamp64\www\wp-includes\class-wp-hook.php(303): wp_widgets_init('')
+#7 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 D:\wamp64\www\wp-settings.php(578): do_action('init')
+#10 D:\wamp64\www\wp-config.php(90): require_once('D:\\wamp64\
+
+2021-07-28T01:40:33+00:00 CRITICAL D:\wamp64\www\wp-includes\class-wp-widget-factory.php 中第 61 行的 Uncaught Error: Class 'boj_widgetexample_widget_my_info' not found in D:\wamp64\www\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 D:\wamp64\www\wp-includes\widgets.php(115): WP_Widget_Factory->register('boj_widgetexamp...')
+#1 D:\wamp64\www\wp-content\plugins\login_and_logout_style.php(130): register_widget('boj_widgetexamp...')
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(303): boj_widgetexample_register_widgets('')
+#3 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\wp-includes\widgets.php(1809): do_action('widgets_init')
+#6 D:\wamp64\www\wp-includes\class-wp-hook.php(303): wp_widgets_init('')
+#7 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 D:\wamp64\www\wp-settings.php(578): do_action('init')
+#10 D:\wamp64\www\wp-config.php(90): require_once('D:\\wamp64\
+
+2021-07-28T01:40:33+00:00 CRITICAL D:\wamp64\www\wp-includes\class-wp-widget-factory.php 中第 61 行的 Uncaught Error: Class 'boj_widgetexample_widget_my_info' not found in D:\wamp64\www\wp-includes\class-wp-widget-factory.php:61
+Stack trace:
+#0 D:\wamp64\www\wp-includes\widgets.php(115): WP_Widget_Factory->register('boj_widgetexamp...')
+#1 D:\wamp64\www\wp-content\plugins\login_and_logout_style.php(130): register_widget('boj_widgetexamp...')
+#2 D:\wamp64\www\wp-includes\class-wp-hook.php(303): boj_widgetexample_register_widgets('')
+#3 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#4 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#5 D:\wamp64\www\wp-includes\widgets.php(1809): do_action('widgets_init')
+#6 D:\wamp64\www\wp-includes\class-wp-hook.php(303): wp_widgets_init('')
+#7 D:\wamp64\www\wp-includes\class-wp-hook.php(327): WP_Hook->apply_filters(NULL, Array)
+#8 D:\wamp64\www\wp-includes\plugin.php(470): WP_Hook->do_action(Array)
+#9 D:\wamp64\www\wp-settings.php(578): do_action('init')
+#10 D:\wamp64\www\wp-config.php(90): require_once('D:\\wamp64\
+

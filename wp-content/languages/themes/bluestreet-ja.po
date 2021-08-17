@@ -1,0 +1,558 @@
+# Translation of Themes - Bluestreet in Japanese
+# This file is distributed under the same license as the Themes - Bluestreet package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-05-06 05:03:06+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: ja_JP\n"
+"Project-Id-Version: Themes - Bluestreet\n"
+
+#. Description of the theme
+msgid "BlueStreet is a Business WordPress Theme that contains a lot of features for customizing your website as you need. Since, this theme is the child theme of WallStreet WordPress Theme, so, you can make use of all the features that are present in the parent theme itself. Already thousands of users loving this theme because it is designed for multiple businesses like corporates, firms, law firms, digital media agency, architecture firm, personal, portfolio and freelancer's website. There is no separate pro version of BlueStreet Theme, you will get all the functionality in the premium version of WallStreet Theme. In the premium version you will get 2 color skins Lite and Dark, 10 predefined color schemes, feature for creating your custom color scheme, an eye-catching Slider, Services, Testimonial’s, Portfolio, Clients/ Sponsors, Blog Layouts, Layout Manager and Latest News. You will find various page templates  like About, Service, Portfolio, Blog and Contact Us. The theme has supports for popular plugins like WPML, Polylang and JetPack Gallery Extensions. Just navigate to Appearance / Customize to start customizing. Both the lite and premium version of WallStreet theme comes with various locales. Check premium version theme demo at http://webriti.com/demo/wp/wallstreet"
+msgstr "BlueStreet は Web サイトのカスタマイズに必要な多くの機能を含んだ WordPress ビジネステーマです。このテーマは WallStreet テーマの子テーマで、WallStreet テーマに付属するすべての機能も使用できます。BlueStreet テーマがすでに何千ものユーザーに愛されている理由は様々なビジネスに適したデザインにあります。企業、商会、法律事務所、デジタルメディアエージェンシー、設計事務所、個人、ポートフォリオ、フリーランサーの Web サイトで利用されています。BlueStreet テーマには専用の上位バージョンはなく、WallStreet テーマのプレミアムバージョンを利用できます。プレミアムバージョンの機能として Lite、Dark 2種類のカラースキン、10個の定義済みカラースキーマ、カスタムカラースキーマ作成機能、アイキャッチスライダー、サービス、お客様の声、ポートフォリオ、お客様、スポンサー、ブログレイアウト、レイアウトマネージャー、最新のニュースなどがあり、また様々なページテンプレートとして About、ポートフォリオ、ブログ、連絡先があります。BlueStreet テーマは WPML、Polylang、JetPack Gallery Extensions などの人気のプラグインもサポートします。管理画面から「外観」->「カスタマイズ」を選択すればすぐにカスタマイズを始められます。WallStreet テーマのライトバージョン、プレミアムバージョンどちらも多くの言語をサポートします。プレミアムバージョンのデモについては http://webriti.com/demo/wp/wallstreet を参照してください。"
+
+#. Theme Name of the theme
+msgid "Bluestreet"
+msgstr "Bluestreet"
+
+#: functions/template-tag.php:220
+msgid "%"
+msgstr "%"
+
+#: functions/template-tag.php:279
+msgid "% Comments"
+msgstr "%件のコメント"
+
+#: functions/template-tag.php:220
+msgid "0"
+msgstr "0"
+
+#: functions/template-tag.php:220
+msgid "1"
+msgstr "1"
+
+#: admin/inc/include-companion.php:99
+msgid "Activate Now"
+msgstr "今すぐ有効化"
+
+#: admin/inc/class-webriti-about-page.php:76 admin/inc/include-companion.php:43
+#: admin/inc/plugin-include-control.php:41
+msgid "Activating"
+msgstr "有効化中"
+
+#: admin/inc/class-webriti-about-page.php:347 admin/tab-pages/support.php:20
+#: admin/tab-pages/support.php:22
+msgid "Changelog"
+msgstr "変更履歴"
+
+#: admin/tab-pages/getting-started.php:20
+msgid "Click here"
+msgstr "ここをクリック"
+
+#: admin/inc/class-webriti-about-page.php:566
+msgid "Contact Form 7"
+msgstr "Contact Form 7"
+
+#: admin/tab-pages/support.php:12 admin/tab-pages/support.php:14
+msgid "Contact Support"
+msgstr "サポートに問い合わせる"
+
+#: admin/inc/class-webriti-about-page.php:77 admin/inc/include-companion.php:44
+#: admin/inc/plugin-include-control.php:42
+msgid "Error"
+msgstr "エラー"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "機能"
+
+#: admin/tab-pages/free_vs_pro.php:92
+msgid "Free"
+msgstr "無料"
+
+#: admin/inc/class-webriti-about-page.php:335
+msgid "Free vs Pro"
+msgstr "無料版とプロ版の違い"
+
+#: admin/inc/class-webriti-about-page.php:315
+msgid "Getting Started"
+msgstr "はじめてみよう"
+
+#: admin/tab-pages/getting-started.php:31
+msgid "Go to Customizer"
+msgstr "カスタマイザーに進む"
+
+#: functions/customizer/customizer-header-layout.php:81
+msgid "Header Layout"
+msgstr "ヘッダーレイアウト"
+
+#: functions/customizer/customizer-header-layout.php:77
+msgid "Header settings"
+msgstr "ヘッダー設定"
+
+#: admin/inc/class-webriti-about-page.php:75 admin/inc/include-companion.php:42
+#: admin/inc/plugin-include-control.php:40
+msgid "Installing"
+msgstr "インストール中"
+
+#: functions/template-tag.php:279
+msgid "No comments"
+msgstr "コメントはありません"
+
+#: admin/tab-pages/free_vs_pro.php:54
+msgid "Portfolio"
+msgstr "ポートフォリオ"
+
+#: admin/tab-pages/getting-started.php:14
+msgid "Recommended Plugins"
+msgstr "おすすめプラグイン"
+
+#: header.php:14
+msgid "Skip to content"
+msgstr "コンテンツへスキップ"
+
+#: admin/tab-pages/getting-started.php:25
+msgid "Start Customizing"
+msgstr "カスタマイズを開始"
+
+#: admin/inc/class-webriti-about-page.php:341
+msgid "Support"
+msgstr "サポート"
+
+#: admin/tab-pages/free_vs_pro.php:80
+msgid "Support Forum"
+msgstr "サポートフォーラム"
+
+#: functions/template-tag.php:70 functions/template-tag.php:165
+msgid "Toggle navigation"
+msgstr "ナビゲーション切り替え"
+
+#: admin/inc/class-webriti-about-page.php:127
+msgid "Welcome to %1$s %2$s"
+msgstr "ようこそ %1$s %2$s"
+
+#: functions/customizer/customizer-copyright.php:24
+msgid "Copyright text"
+msgstr "著作権テキスト"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s、%2$s"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "%2$s 有効化"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "%2$s インストール"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "%2$s 更新"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "プラグインの更新中: %s"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "インストール、更新、有効化するプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "インストール、更新、有効化可能な必須または推奨プラグインがあります。"
+
+#: blog-fullwidth.php:33
+msgid "Page"
+msgstr "固定ページ"
+
+#. Template Name of the theme
+msgid "Blog FullWidth"
+msgstr "全幅ブログ"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "すべてのインストールが完了しました。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "プラグイン %1$s をインストール中 (%2$d/%3$d)"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s のインストールを完了しました。"
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "更新プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "すべてのインストールと有効化が完了しました。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインをインストール、有効化中 (%2$d/%3$d)"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "詳細を非表示"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "詳細を表示"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s のインストールと有効化が完了しました。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s のインストールに失敗しました。"
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "インストールと有効化プロセスを開始しています。サーバーによっては少し時間がかかるかもしれません。しばらくお待ちください。"
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "%1$s のインストール中にエラーが発生しました: <strong>%2$s</strong>。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "%1$s プラグインを更新中 (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "現時点で有効化できるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "プラグインの有効化に失敗しました。"
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "現在更新できるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "有効化するプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "現在インストールできるプラグインはありません。"
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "インストールするプラグインが選択されていません。何も実行しませんでした。"
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "更新するプラグインが選択されていません。何も実行しませんでした。"
+
+#: admin/inc/class-webriti-about-page.php:446
+#: class-tgm-plugin-activation.php:2726
+msgid "Activate"
+msgstr "有効化"
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "プラグイン作者からの更新メッセージ:"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "インストール"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "ステータス"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "バージョン"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "タイプ"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "ソース"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "プラグイン"
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "利用可能なバージョン:"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "不明"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "インストール済みバージョン:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "最低必須バージョン:"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "未有効化 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "未インストール <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] "利用可能な更新 <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "すべて <span class=\"count\">(%s)</span>"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update not Available"
+msgstr "必要な更新が利用できません"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "更新が推奨されています"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "更新が必要です"
+
+#: admin/inc/class-webriti-about-page.php:449
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "有効"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "インストール済み、停止中"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部ソース"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未インストール"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "パッケージ化済み"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress リポジトリ"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推奨"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "と"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必須"
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "プラグイン開発者に連絡し、WordPress のガイドラインに従ってプラグインをパッケージ化するように依頼してください。"
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "リモートプラグインパッケージは複数のファイルで構成されていますが、ファイルが1つのフォルダー内にパッケージされていません。"
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "リモートプラグインパッケージには指定されたスラッグのフォルダーがないため、名前の変更ができませんでした。"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "ダッシュボードに戻る"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "ヘルプが必要な場合はこのサイトの管理者にお問い合わせください。"
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "更新が必要です"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "使用中のテーマとの互換性を保つため、このプラグインを更新する必要があります。"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "この通知を非表示"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "すべてのプラグインをインストールし、有効化しました。%1$s"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "操作を実行しませんでした。プラグイン %1$s はすでに有効です。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "プラグインを有効化できませんでした。このテーマには上位バージョンの %s が必要です。プラグインを更新してください。"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "プラグインを有効化しました。"
+
+#: class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr "以下のプラグインを有効化しました:"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "プラグインの有効化を開始"
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "必須プラグインのインストール画面に戻る"
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "プラグインの更新を開始"
+
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "プラグインのインストールを開始"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ推奨プラグインは、現在有効化されていません: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下のテーマ必須プラグインは、現在有効化されていません: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:352
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "利用可能な更新があります: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "このテーマとの最大限の互換性を確保するため、以下のプラグインを最新バージョンに更新する必要があります: %1$s。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "このテーマは以下のプラグインを推奨しています: %1$s。"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "プラグイン API で問題が発生しました。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "このテーマには以下のプラグインが必要です: %1$s。"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "プラグインをインストール中: %s"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "プラグインのインストール"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "必須プラグインをインストール"
+
+#: blog-fullwidth.php:56
+msgid "Next"
+msgstr "次"
+
+#: blog-fullwidth.php:55
+msgid "Previous"
+msgstr "前"
+
+#: blog-fullwidth.php:32 functions/template-tag.php:225
+#: functions/template-tag.php:284
+msgid "Read More"
+msgstr "続きを読む"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/bluestreet-child-version-details-page/"
+msgstr "https://webriti.com/bluestreet-child-version-details-page/"
+
+#. Author of the theme
+msgid "webriti"
+msgstr "webriti"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"

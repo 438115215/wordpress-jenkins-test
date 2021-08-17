@@ -1,0 +1,6 @@
+2021-07-19T01:43:32+00:00 CRITICAL D:\wamp64\www\wp-content\plugins\test.php 中第 69 行的 Cannot redeclare dolly_css() (previously declared in D:\wamp64\www\wp-content\plugins\hello.php:72)
+
+2021-07-19T01:43:33+00:00 CRITICAL D:\wamp64\www\wp-content\plugins\test.php 中第 69 行的 Cannot redeclare dolly_css() (previously declared in D:\wamp64\www\wp-content\plugins\hello.php:72)
+
+2021-07-19T01:43:33+00:00 CRITICAL D:\wamp64\www\wp-content\plugins\test.php 中第 69 行的 Cannot redeclare dolly_css() (previously declared in D:\wamp64\www\wp-content\plugins\hello.php:72)
+

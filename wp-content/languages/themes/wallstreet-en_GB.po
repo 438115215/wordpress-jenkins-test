@@ -1,0 +1,709 @@
+# Translation of Themes - Wallstreet in English (UK)
+# This file is distributed under the same license as the Themes - Wallstreet package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2020-06-27 15:20:26+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: en_GB\n"
+"Project-Id-Version: Themes - Wallstreet\n"
+
+#. Description of the theme
+msgid "WallStreet is a Business WordPress Theme that contains many features for customizing your website as you need. Already, thousands of users are enjoying this theme because it is designed for multiple businesses like corporates, law firms, digital media agencies, architecture firms, personal blogs, portfolios and freelancer websites. The theme is developed using Bootstrap 3 CSS framework which makes it friendly for all devices such as mobiles, tablets, and laptops, etc. In WallStreet Lite, you can easily set a Featured Banner / Slide, Social Icons in the header, Contact Information, Services, Portfolio, and a 4-column widgetized footer. Several page templates are also added: Homepage and a Full Width page template. In the premium version, you will get 2 color skins (Lite and Dark), 10 predefined color schemes, a feature for creating your own custom color scheme, an eye-catching slider, and Services, Testimonials, Portfolio, Clients / Sponsors, Blog Layouts, Layout Manager and Latest News. You will also get various page templates including About, Services, Portfolio, Blog and Contact Us. The theme has support for popular plugins such as WPML, Polylang and JetPack Gallery Extensions. Just navigate to Appearance / Customize to start customizing. Both the lite and premium versions of WallStreet theme come with various locales. Check the premium version theme demo at https://webriti.com/demo/wp/wallstreet"
+msgstr "WallStreet is a Business WordPress Theme that contains many features for customising your website as you need. Already, thousands of users are enjoying this theme because it is designed for multiple businesses like corporates, law firms, digital media agencies, architecture firms, personal blogs, portfolios and freelancer websites. The theme is developed using Bootstrap 3 CSS framework which makes it friendly for all devices such as mobiles, tablets, and laptops, etc. In WallStreet Lite, you can easily set a Featured Banner / Slide, Social Icons in the header, Contact Information, Services, Portfolio, and a 4-column widgetised footer. Several page templates are also added: Homepage and a Full Width page template. In the premium version, you will get 2 colour skins (Lite and Dark), 10 predefined colour schemes, a feature for creating your own custom colour scheme, an eye-catching slider, and Services, Testimonials, Portfolio, Clients / Sponsors, Blog Layouts, Layout Manager and Latest News. You will also get various page templates including About, Services, Portfolio, Blog and Contact Us. The theme has support for popular plugins such as WPML, Polylang and JetPack Gallery Extensions. Just navigate to Appearance / Customise to start customising. Both the lite and premium versions of WallStreet theme come with various locales. Check the premium version theme demo at http://webriti.com/demo/wp/wallstreet"
+
+#. Theme Name of the theme
+msgid "Wallstreet"
+msgstr "Wallstreet"
+
+#: admin/tab-pages/free_vs_pro.php:38 admin/tab-pages/useful_plugins.php:16
+#: functions/customizer/customizer-pro-feature.php:42
+msgid "SEO Friendly URL"
+msgstr "SEO Friendly URL"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:352
+msgid "There is an update available for %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] "There is an update available for %1$s."
+msgstr[1] "There are updates available for the following plugins: %1$s."
+
+#: functions.php:160 functions.php:162
+msgid "WooCommerce sidebar widget area"
+msgstr "WooCommerce sidebar widget area"
+
+#: functions/customizer/customizer-social.php:154
+msgid "Instagram URL"
+msgstr "Instagram URL"
+
+#: functions/customizer/customizer-blog.php:8
+msgid "Homepage blog settings"
+msgstr "Homepage blog settings"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "Updating Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "No plugins are available to be activated at this time."
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "No plugins were selected to be activated. No action taken."
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "No plugins are available to be updated at this time."
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "No plugins are available to be installed at this time."
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "No plugins were selected to be updated. No action taken."
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "No plugins were selected to be installed. No action taken."
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "Update"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "Upgrade message from the plugin author:"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "Activate %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "Update %2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "Install %2$s"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "Version"
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "No plugins to install, update or activate."
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "Available version:"
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "Minimum required version:"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "Installed version:"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "unknown"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "To Activate <span class=\"count\">(%s)</span>"
+msgstr[1] "To Activate <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Updates Available <span class=\"count\">(%s)</span>"
+msgid_plural "Updates Available <span class=\"count\">(%s)</span>"
+msgstr[0] "Updates Available <span class=\"count\">(%s)</span>"
+msgstr[1] "Updates Available <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "To Install <span class=\"count\">(%s)</span>"
+msgstr[1] "To Install <span class=\"count\">(%s)</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "All <span class=\"count\">(%s)</span>"
+msgstr[1] "All <span class=\"count\">(%s)</span>"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "Update recommended"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "Requires Update"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update Not Available"
+msgstr "Required Update Not Available"
+
+#: admin/inc/class-webriti-about-page.php:449
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "Active"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "External Source"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "and"
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "Update Required"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "This plugin needs to be updated to be compatible with your theme."
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "Please contact the administrator of this site for help."
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "There are one or more required or recommended plugins to install, update or activate."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "No action taken. Plugin %1$s was already active."
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "Begin updating plugin"
+msgstr[1] "Begin updating plugins"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "Updating Plugin: %s"
+
+#: functions.php:140 functions.php:142
+msgid "Sidebar widget area"
+msgstr "Sidebar widget area"
+
+#: functions/customizer/customizer-social.php:134
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: functions/customizer/customizer-social.php:114
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/customizer-social.php:94
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/customizer-social.php:75
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: comments.php:56
+msgid "Logout"
+msgstr "Logout"
+
+#: comments.php:56
+msgid "Log out from this Account"
+msgstr "Log out from this Account"
+
+#: comments.php:55 comments.php:61
+msgid "Leave your message"
+msgstr "Leave your message"
+
+#: comments.php:45
+msgid "Name"
+msgstr "Name"
+
+#. translators: %s is Link to login
+#: comments.php:33
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "You must be <a href=\"%s\">logged in</a> to post a comment."
+
+#: author.php:8
+msgid "Author Archive"
+msgstr "Author Archive"
+
+#: 404.php:32
+msgid "Go Back"
+msgstr "Go Back"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "Full Width Page"
+
+#: functions/customizer/customizer-social.php:15
+msgid "Social Links"
+msgstr "Social Links"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "Something went wrong with the plugin API."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "All installations have been completed."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s installed successfully."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "The installation of %1$s failed."
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "An error occurred while installing %1$s: <strong>%2$s</strong>."
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation process is starting. This process may take a while on some hosts, so please be patient."
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "All installations and activations have been completed."
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "Hide Details"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "Show Details"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s installed and activated successfully."
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "Plugin activation failed."
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "Status"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "Type"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "Source"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "Plugin"
+
+#: admin/inc/class-webriti-about-page.php:446
+#: class-tgm-plugin-activation.php:2726
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Activate"
+msgstr "Activate"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "Install"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "Installed But Not Activated"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "Not Installed"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "Recommended"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "Required"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress Repository"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "Pre-Packaged"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "Return to the Dashboard"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "Dismiss this notice"
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "All plugins installed and activated successfully. %1$s"
+
+#: class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr "The following plugin was activated successfully:"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "Plugin activated successfully."
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "Return to Required Plugins Installer"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "Begin activating plugin"
+msgstr[1] "Begin activating plugins"
+
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "Begin installing plugin"
+msgstr[1] "Begin installing plugins"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[1] "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "The following recommended plugin is currently inactive: %1$s."
+msgstr[1] "The following recommended plugins are currently inactive: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "The following required plugin is currently inactive: %1$s."
+msgstr[1] "The following required plugins are currently inactive: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:340
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] "This theme recommends the following plugin: %1$s."
+msgstr[1] "This theme recommends the following plugins: %1$s."
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "This theme requires the following plugin: %1$s."
+msgstr[1] "This theme requires the following plugins: %1$s."
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "Installing Plugin: %s"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "Install Plugins"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "Install the Required Plugins"
+
+#: functions/customizer/customizer-pro-feature.php:66
+msgid "Google Map"
+msgstr "Google Maps"
+
+#: comments.php:46
+msgid "Email"
+msgstr "Email"
+
+#: functions/customizer/customizer-social.php:7
+msgid "Social link settings"
+msgstr "Social link settings"
+
+#: functions/customizer/customizer-copyright.php:24
+msgid "Copyright text"
+msgstr "Copyright text"
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr "Footer copyright settings"
+
+#: functions/customizer/customizer-blog.php:28
+msgid "Enable Homepage Blog Section"
+msgstr "Enable Homepage Blog Section"
+
+#: functions/customizer/customizer-blog.php:66
+msgid "Homepage blog section description"
+msgstr "Homepage blog section description"
+
+#: functions/customizer/customizer-blog.php:47
+msgid "Homepage blog section heading"
+msgstr "Homepage blog section heading"
+
+#: tag.php:8
+msgid "Tag Archive %s"
+msgstr "Tag Archive %s"
+
+#: searchform.php:2
+msgid "Search Here"
+msgstr "Search Here"
+
+#: search.php:74
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+
+#: search.php:72
+msgid "Nothing Found"
+msgstr "Nothing Found"
+
+#: search.php:67
+msgid "Next"
+msgstr "Next"
+
+#: search.php:68
+msgid "Previous"
+msgstr "Previous"
+
+#: search.php:8
+msgid "Search results for: %s"
+msgstr "Search results for: %s"
+
+#: header.php:87
+msgid "Toggle navigation"
+msgstr "Toggle navigation"
+
+#: functions.php:216
+msgid "Your comment is awaiting moderation."
+msgstr "Your comment is awaiting moderation."
+
+#: functions.php:211
+msgid "Edit"
+msgstr "Edit"
+
+#: functions.php:208
+msgid "Posted on &nbsp;"
+msgstr "Posted on &nbsp;"
+
+#: functions.php:202
+msgid "Reply"
+msgstr "Reply"
+
+#: functions.php:150 functions.php:152
+msgid "Footer widget area"
+msgstr "Footer widget area"
+
+#: functions.php:87
+msgid "Primary Menu"
+msgstr "Primary Menu"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "Search"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "Home Page"
+
+#: wallstreet_theme_setup_data.php:17
+msgid "Welcome to WallStreet"
+msgstr "Welcome to WallStreet"
+
+#: functions/customizer/customizer-social.php:54
+msgid "Enable social media links on footer section"
+msgstr "Enable social media links on footer section"
+
+#: functions/customizer/customizer-social.php:35
+msgid "Enable social media links on header section"
+msgstr "Enable social media links on header section"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "Features"
+
+#: admin/tab-pages/useful_plugins.php:116
+msgid "Translation Ready"
+msgstr "Translation Ready"
+
+#: archive.php:63 author.php:47 category.php:49 functions.php:65
+#: functions/breadcrumbs/breadcrumbs.php:102 index.php:65 single.php:37
+#: tag.php:57
+msgid "Page"
+msgstr "Page"
+
+#: functions/breadcrumbs/breadcrumbs.php:94
+msgid "Articles posted by"
+msgstr "Articles posted by"
+
+#: functions/breadcrumbs/breadcrumbs.php:89
+msgid "Posts tagged"
+msgstr "Posts tagged"
+
+#: functions/breadcrumbs/breadcrumbs.php:31
+msgid "Search results for "
+msgstr "Search results for"
+
+#: functions/breadcrumbs/breadcrumbs.php:28
+msgid "Archive by category"
+msgstr "Archive by category"
+
+#: functions/breadcrumbs/breadcrumbs.php:5
+#: functions/menu/default_menu_walker.php:17 index.php:17
+msgid "Home"
+msgstr "Home"
+
+#: comments.php:58
+msgid "Send Message"
+msgstr "Send Message"
+
+#: comments.php:56
+msgid "Logged in as"
+msgstr "Logged in as"
+
+#: comments.php:26
+msgid "Comments are closed"
+msgstr "Comments are closed"
+
+#: comments.php:22
+msgid "Newer Comments &rarr;"
+msgstr "Newer Comments &rarr;"
+
+#: comments.php:21
+msgid "&larr; Older Comments"
+msgstr "&larr; Older Comments"
+
+#: comments.php:20
+msgid "Comment navigation"
+msgstr "Comment navigation"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "This post is password protected. Enter the password to view any comments."
+
+#: archive.php:62 author.php:46 category.php:48 functions.php:130
+#: index-blog.php:49 index.php:64 search.php:50 tag.php:56
+msgid "Read More"
+msgstr "Read More"
+
+#: archive.php:21
+msgid "Blog Archive"
+msgstr "Blog Archive"
+
+#: archive.php:17
+msgid "Yearly Archive"
+msgstr "Yearly Archive"
+
+#: archive.php:13
+msgid "Monthly Archive"
+msgstr "Monthly Archive"
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "Daily Archive"
+
+#: 404.php:31
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "We are sorry, but the page you are looking for does not exist."
+
+#: 404.php:30
+msgid "Oops! Page not found"
+msgstr "Oops! Page not found"
+
+#: 404.php:8 404.php:29 functions/breadcrumbs/breadcrumbs.php:97
+msgid "Error 404"
+msgstr "Error 404"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/wallstreet-lite-version-details-page/"
+msgstr "https://webriti.com/wallstreet-lite-version-details-page/"
+
+#. Author of the theme
+msgid "webriti"
+msgstr "webriti"

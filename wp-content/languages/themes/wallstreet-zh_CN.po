@@ -1,0 +1,659 @@
+# Translation of Themes - Wallstreet in Chinese (China)
+# This file is distributed under the same license as the Themes - Wallstreet package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-12-23 18:53:37+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_CN\n"
+"Project-Id-Version: Themes - Wallstreet\n"
+
+#. Theme Name of the theme
+msgid "Wallstreet"
+msgstr "Wallstreet"
+
+#: functions/customizer/customizer-blog.php:8
+msgid "Homepage blog settings"
+msgstr "首页博客设置"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:332
+msgid "Updating Plugin: %s"
+msgstr "升级插件：%s"
+
+#: class-tgm-plugin-activation.php:375
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] "开始升级插件"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:390
+msgid "No action taken. Plugin %1$s was already active."
+msgstr "没有采取行动。 插件%1$s已经激活了。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:392
+msgid "Plugin not activated. A higher version of %s is needed for this theme. Please update the plugin."
+msgstr "插件未激活，此主题需要更高版本的%s。 请更新此插件。"
+
+#: class-tgm-plugin-activation.php:396
+msgid "There are one or more required or recommended plugins to install, update or activate."
+msgstr "至少有一个必需或推荐的插件来安装，更新或激活。"
+
+#: class-tgm-plugin-activation.php:397
+msgid "Please contact the administrator of this site for help."
+msgstr "请联系本站点的管理员寻求帮助。"
+
+#: class-tgm-plugin-activation.php:522
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr "此插件需要更新以与您的主题兼容。"
+
+#: class-tgm-plugin-activation.php:523
+msgid "Update Required"
+msgstr "需要更新"
+
+#: class-tgm-plugin-activation.php:934
+msgid "The remote plugin package does not contain a folder with the desired slug and renaming did not work."
+msgstr "远程插件包不包含具有所需别名的文件夹而改别名不起作用。"
+
+#: class-tgm-plugin-activation.php:934 class-tgm-plugin-activation.php:937
+msgid "Please contact the plugin provider and ask them to package their plugin according to the WordPress guidelines."
+msgstr "请联系插件提供者，并要求他根据WordPress的指导方针整理此插件。"
+
+#: class-tgm-plugin-activation.php:937
+msgid "The remote plugin package consists of more than one file, but the files are not packaged in a folder."
+msgstr "远程插件包有多个文件组成，但文件不在文件夹中。"
+
+#. translators: %s: version number
+#: class-tgm-plugin-activation.php:1982
+msgid "TGMPA v%s"
+msgstr "TGMPA v%s"
+
+#: class-tgm-plugin-activation.php:2295
+msgid "External Source"
+msgstr "外部源"
+
+#: admin/inc/class-webriti-about-page.php:449
+#: class-tgm-plugin-activation.php:2321
+msgid "Active"
+msgstr "已启用"
+
+#: class-tgm-plugin-activation.php:2327
+msgid "Required Update Not Available"
+msgstr "所需的更新不可用"
+
+#: class-tgm-plugin-activation.php:2330
+msgid "Requires Update"
+msgstr "必须更新"
+
+#: class-tgm-plugin-activation.php:2333
+msgid "Update recommended"
+msgstr "推荐更新"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2392
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] "安装<span class=\"count\">（%s个）</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2396
+msgid "Updates Available <span class=\"count\">(%s)</span>"
+msgid_plural "Updates Available <span class=\"count\">(%s)</span>"
+msgstr[0] "可供更新<span class=\"count\">（%s个）</span>"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2400
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] "安装<span class=\"count\">（%s个）</span>"
+
+#: class-tgm-plugin-activation.php:2490
+msgid "Installed version:"
+msgstr "已安装版本："
+
+#: class-tgm-plugin-activation.php:2498
+msgid "Minimum required version:"
+msgstr "所需的最小版本："
+
+#: class-tgm-plugin-activation.php:2510
+msgid "Available version:"
+msgstr "可用版本："
+
+#: class-tgm-plugin-activation.php:2533
+msgid "No plugins to install, update or activate."
+msgstr "没有插件来安装，更新或激活。"
+
+#: class-tgm-plugin-activation.php:2553
+msgid "Version"
+msgstr "版本"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2603
+msgid "Install %2$s"
+msgstr "安装%2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2608
+msgid "Update %2$s"
+msgstr "更新%2$s"
+
+#. translators: %2$s: plugin name in screen reader markup
+#: class-tgm-plugin-activation.php:2614
+msgid "Activate %2$s"
+msgstr "激活%2$s"
+
+#: class-tgm-plugin-activation.php:2684
+msgid "Upgrade message from the plugin author:"
+msgstr "插件作者的升级信息："
+
+#: class-tgm-plugin-activation.php:2723
+msgid "Update"
+msgstr "更新"
+
+#: class-tgm-plugin-activation.php:2757
+msgid "No plugins were selected to be installed. No action taken."
+msgstr "没有插件被选安装。 没有采取行动。"
+
+#: class-tgm-plugin-activation.php:2759
+msgid "No plugins were selected to be updated. No action taken."
+msgstr "没有插件被选更新。 没有采取行动。"
+
+#: class-tgm-plugin-activation.php:2800
+msgid "No plugins are available to be installed at this time."
+msgstr "目前没有可以安装的插件。"
+
+#: class-tgm-plugin-activation.php:2802
+msgid "No plugins are available to be updated at this time."
+msgstr "目前没有可以更新的插件。"
+
+#: class-tgm-plugin-activation.php:2908
+msgid "No plugins were selected to be activated. No action taken."
+msgstr "没有插件被选激活。 没有采取行动。"
+
+#: class-tgm-plugin-activation.php:2934
+msgid "No plugins are available to be activated at this time."
+msgstr "目前没有可以激活的插件。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3498
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr "正在更新插件%1$s（%2$d／%3$d）"
+
+#: class-tgm-plugin-activation.php:1121 class-tgm-plugin-activation.php:2948
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr "和"
+
+#. translators: 1: install status, 2: update status
+#: class-tgm-plugin-activation.php:2342
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: 1: number of plugins.
+#: class-tgm-plugin-activation.php:2388
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] "全部<span class=\"count\">（%s）</span>"
+
+#: class-tgm-plugin-activation.php:2482
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr "未知"
+
+#: functions.php:140 functions.php:142
+msgid "Sidebar widget area"
+msgstr "边栏挂件区"
+
+#: functions/customizer/customizer-social.php:75
+msgid "Twitter URL"
+msgstr "Twitter URL"
+
+#: functions/customizer/customizer-social.php:94
+msgid "Facebook URL"
+msgstr "Facebook URL"
+
+#: functions/customizer/customizer-social.php:114
+msgid "LinkedIn URL"
+msgstr "LinkedIn URL"
+
+#: functions/customizer/customizer-social.php:134
+msgid "YouTube URL"
+msgstr "YouTube URL"
+
+#: author.php:8
+msgid "Author Archive"
+msgstr "作者归档"
+
+#. translators: %s is Link to login
+#: comments.php:33
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "你需要<a href=\"%s\">登陆</a>后才能评论。"
+
+#: comments.php:45
+msgid "Name"
+msgstr "名称"
+
+#: comments.php:55 comments.php:61
+msgid "Leave your message"
+msgstr "留下您的信息"
+
+#: comments.php:56
+msgid "Log out from this Account"
+msgstr "以这帐户登出"
+
+#: comments.php:56
+msgid "Logout"
+msgstr "登出"
+
+#: 404.php:32
+msgid "Go Back"
+msgstr "返回"
+
+#. Template Name of the theme
+msgid "Full Width Page"
+msgstr "全宽页面"
+
+#: functions/customizer/customizer-social.php:15
+msgid "Social Links"
+msgstr "社交网络链接"
+
+#: class-tgm-plugin-activation.php:333
+msgid "Something went wrong with the plugin API."
+msgstr "插件API出错了。"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3517
+msgid "%1$s installed successfully."
+msgstr "%1$s安装成功。"
+
+#: class-tgm-plugin-activation.php:3518
+msgid "All installations have been completed."
+msgstr "安装任务全部完成。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3520
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr "正在安装插件%1$s（%2$d／%3$d）"
+
+#. translators: 1: plugin name, 2: error message.
+#: class-tgm-plugin-activation.php:3501
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr "在安装%1$s时出错：<strong>%2$s</strong>"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3503
+msgid "The installation of %1$s failed."
+msgstr "%1$s安装失败。"
+
+#: class-tgm-plugin-activation.php:3515
+msgid "The installation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "正开始安装。这个过程在某些服务器上花的时间要长些，请耐心等待。"
+
+#: class-tgm-plugin-activation.php:3510
+msgid "All installations and activations have been completed."
+msgstr "安装以及激活任务全部完成。"
+
+#. translators: 1: plugin name, 2: action number 3: total number of actions.
+#: class-tgm-plugin-activation.php:3512
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr "安装以及激活插件%1$s（%2$d／%3$d）"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Hide Details"
+msgstr "隐藏详情"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509 class-tgm-plugin-activation.php:3517
+msgid "Show Details"
+msgstr "显示详情"
+
+#. translators: 1: plugin name.
+#: class-tgm-plugin-activation.php:3509
+msgid "%1$s installed and activated successfully."
+msgstr "%1$s已成功安装并激活。"
+
+#: class-tgm-plugin-activation.php:3507
+msgid "The installation and activation process is starting. This process may take a while on some hosts, so please be patient."
+msgstr "正开始安装以及激活。这个过程在某些服务器上花的时间要长些，请耐心等待。"
+
+#: class-tgm-plugin-activation.php:3158
+msgid "Plugin activation failed."
+msgstr "插件激活失败。"
+
+#: class-tgm-plugin-activation.php:2554
+msgid "Status"
+msgstr "情况"
+
+#: class-tgm-plugin-activation.php:2549
+msgid "Type"
+msgstr "类型"
+
+#: class-tgm-plugin-activation.php:2548
+msgid "Source"
+msgstr "资源"
+
+#: class-tgm-plugin-activation.php:2547
+msgid "Plugin"
+msgstr "插件"
+
+#: admin/inc/class-webriti-about-page.php:446
+#: class-tgm-plugin-activation.php:2726
+#: functions/customizer/customizer_recommended_plugin.php:19
+msgid "Activate"
+msgstr "激活"
+
+#: class-tgm-plugin-activation.php:2717
+msgid "Install"
+msgstr "安装"
+
+#: class-tgm-plugin-activation.php:2315
+msgid "Not Installed"
+msgstr "未安装"
+
+#: class-tgm-plugin-activation.php:2319
+msgid "Installed But Not Activated"
+msgstr "安装但未激活"
+
+#: class-tgm-plugin-activation.php:2273
+msgid "Required"
+msgstr "必须"
+
+#: class-tgm-plugin-activation.php:2276
+msgid "Recommended"
+msgstr "推荐"
+
+#: class-tgm-plugin-activation.php:2298
+msgid "Pre-Packaged"
+msgstr "预包装"
+
+#: class-tgm-plugin-activation.php:2292
+msgid "WordPress Repository"
+msgstr "WordPress仓库"
+
+#: class-tgm-plugin-activation.php:395
+msgid "Dismiss this notice"
+msgstr "关闭这个通知"
+
+#: class-tgm-plugin-activation.php:386 class-tgm-plugin-activation.php:827
+#: class-tgm-plugin-activation.php:2533 class-tgm-plugin-activation.php:3580
+msgid "Return to the Dashboard"
+msgstr "返回“仪表盘”"
+
+#: class-tgm-plugin-activation.php:388
+msgid "The following plugin was activated successfully:"
+msgstr "以下插件已成功激活："
+
+#. translators: 1: dashboard link.
+#: class-tgm-plugin-activation.php:394
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr "所有插件已成功安装并激活。%1$s"
+
+#: class-tgm-plugin-activation.php:385
+msgid "Return to Required Plugins Installer"
+msgstr "返回“必需插件安装器”页面"
+
+#: class-tgm-plugin-activation.php:387 class-tgm-plugin-activation.php:3159
+msgid "Plugin activated successfully."
+msgstr "插件激活成功。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:346
+msgid "The following plugin needs to be updated to its latest version to ensure maximum compatibility with this theme: %1$s."
+msgid_plural "The following plugins need to be updated to their latest version to ensure maximum compatibility with this theme: %1$s."
+msgstr[0] "以下插件需要更新到最新的版本，以确保与这一主题的最大兼容性： %1$s。"
+
+#: class-tgm-plugin-activation.php:370
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] "开始安装插件"
+
+#: class-tgm-plugin-activation.php:380
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] "开始激活插件"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:358
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] "以下必需的插件是当前处于非活动状态： %1$s。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:364
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] "以下推荐插件是当前处于非活动状态： %1$s。"
+
+#. translators: 1: plugin name(s).
+#: class-tgm-plugin-activation.php:334
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] "这一主题需要以下插件： %1$s。"
+
+#. translators: %s: plugin name.
+#: class-tgm-plugin-activation.php:330
+msgid "Installing Plugin: %s"
+msgstr "正在安装插件：%s"
+
+#: class-tgm-plugin-activation.php:328
+msgid "Install Plugins"
+msgstr "安装插件"
+
+#: class-tgm-plugin-activation.php:327
+msgid "Install Required Plugins"
+msgstr "安装必需插件"
+
+#: comments.php:46
+msgid "Email"
+msgstr "电子邮件"
+
+#: functions/customizer/customizer-social.php:7
+msgid "Social link settings"
+msgstr "社交网络链接设置"
+
+#: functions/customizer/customizer-copyright.php:24
+msgid "Copyright text"
+msgstr "版权说明"
+
+#: functions/customizer/customizer-copyright.php:8
+msgid "Footer copyright settings"
+msgstr "页脚版权设置"
+
+#: functions/customizer/customizer-blog.php:28
+msgid "Enable Homepage Blog Section"
+msgstr "启用主页博客部分"
+
+#: functions/customizer/customizer-blog.php:47
+msgid "Homepage blog section heading"
+msgstr "首页博客部分标题"
+
+#: functions/customizer/customizer-blog.php:66
+msgid "Homepage blog section description"
+msgstr "首页博客部分描述"
+
+#: searchform.php:2
+msgid "Search Here"
+msgstr "搜索"
+
+#: tag.php:8
+msgid "Tag Archive %s"
+msgstr "标签归档%s"
+
+#: search.php:74
+msgid "Sorry, but nothing matched your search criteria. Please try again with some different keywords."
+msgstr "抱歉，没有符合您搜索条件的结果。请换其它关键词再试。"
+
+#: search.php:72
+msgid "Nothing Found"
+msgstr "未找到"
+
+#: search.php:67
+msgid "Next"
+msgstr "下一页"
+
+#: search.php:68
+msgid "Previous"
+msgstr "上一页"
+
+#: header.php:87
+msgid "Toggle navigation"
+msgstr "切换导航"
+
+#: search.php:8
+msgid "Search results for: %s"
+msgstr "%s的搜索结果"
+
+#: functions.php:216
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正等待审核。"
+
+#: functions.php:211
+msgid "Edit"
+msgstr "编辑"
+
+#: functions.php:208
+msgid "Posted on &nbsp;"
+msgstr "发布于"
+
+#: functions.php:202
+msgid "Reply"
+msgstr "回复"
+
+#: functions.php:150 functions.php:152
+msgid "Footer widget area"
+msgstr "页脚挂件区"
+
+#: functions.php:87
+msgid "Primary Menu"
+msgstr "主菜单"
+
+#: searchform.php:3
+msgid "Search"
+msgstr "搜索"
+
+#. Template Name of the theme
+msgid "Home Page"
+msgstr "首页"
+
+#: wallstreet_theme_setup_data.php:17
+msgid "Welcome to WallStreet"
+msgstr "欢迎使用WallStreet"
+
+#: functions/customizer/customizer-social.php:35
+msgid "Enable social media links on header section"
+msgstr "在页头部分启用社交网络链接"
+
+#: functions/customizer/customizer-social.php:54
+msgid "Enable social media links on footer section"
+msgstr "在页尾部分启用社交网络链接"
+
+#: admin/tab-pages/free_vs_pro.php:14
+msgid "Features"
+msgstr "特色"
+
+#: admin/tab-pages/useful_plugins.php:116
+msgid "Translation Ready"
+msgstr "支持多国语言翻译"
+
+#: archive.php:63 author.php:47 category.php:49 functions.php:65
+#: functions/breadcrumbs/breadcrumbs.php:102 index.php:65 single.php:37
+#: tag.php:57
+msgid "Page"
+msgstr "页面"
+
+#: functions/breadcrumbs/breadcrumbs.php:89
+msgid "Posts tagged"
+msgstr "标签："
+
+#: functions/breadcrumbs/breadcrumbs.php:94
+msgid "Articles posted by"
+msgstr "作者："
+
+#: functions/breadcrumbs/breadcrumbs.php:28
+msgid "Archive by category"
+msgstr "分类归档："
+
+#: functions/breadcrumbs/breadcrumbs.php:5
+#: functions/menu/default_menu_walker.php:17 index.php:17
+msgid "Home"
+msgstr "首页"
+
+#: comments.php:58
+msgid "Send Message"
+msgstr "发送信息"
+
+#: comments.php:56
+msgid "Logged in as"
+msgstr "以以下身份登陆"
+
+#: comments.php:26
+msgid "Comments are closed"
+msgstr "评论已关闭。"
+
+#: comments.php:22
+msgid "Newer Comments &rarr;"
+msgstr "较新评论 &rarr;"
+
+#: comments.php:21
+msgid "&larr; Older Comments"
+msgstr "&larr; 早期评论"
+
+#: comments.php:20
+msgid "Comment navigation"
+msgstr "评论导航"
+
+#: comments.php:2
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "这篇文章受密码保护。输入密码以查看评论。"
+
+#: archive.php:62 author.php:46 category.php:48 functions.php:130
+#: index-blog.php:49 index.php:64 search.php:50 tag.php:56
+msgid "Read More"
+msgstr "阅读更多"
+
+#: archive.php:17
+msgid "Yearly Archive"
+msgstr "年度归档"
+
+#: archive.php:21
+msgid "Blog Archive"
+msgstr "博客归档"
+
+#: 404.php:8 404.php:29 functions/breadcrumbs/breadcrumbs.php:97
+msgid "Error 404"
+msgstr "404错误"
+
+#: 404.php:30
+msgid "Oops! Page not found"
+msgstr "出错了！未找到页面"
+
+#: 404.php:31
+msgid "We are sorry, but the page you are looking for does not exist."
+msgstr "非常抱歉，您正在找的页面不存在。"
+
+#: archive.php:10
+msgid "Daily Archive"
+msgstr "按日归档"
+
+#: archive.php:13
+msgid "Monthly Archive"
+msgstr "月度归档"
+
+#. Author URI of the theme
+msgid "https://www.webriti.com"
+msgstr "https://www.webriti.com"
+
+#. Theme URI of the theme
+msgid "https://webriti.com/wallstreet-lite-version-details-page/"
+msgstr "https://webriti.com/wallstreet-lite-version-details-page/"
+
+#. Author of the theme
+msgid "webriti"
+msgstr "webriti"

@@ -1,0 +1,601 @@
+# Translation of Plugins - Custom Login Page Customizer &#8211; Login Designer - Stable (latest release) in Chinese (Taiwan)
+# This file is distributed under the same license as the Plugins - Custom Login Page Customizer &#8211; Login Designer - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2021-01-13 08:06:30+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/3.0.0-alpha.2\n"
+"Language: zh_TW\n"
+"Project-Id-Version: Plugins - Custom Login Page Customizer &#8211; Login Designer - Stable (latest release)\n"
+
+#: includes/install.php:142
+msgctxt "Page title"
+msgid "Login Designer"
+msgstr "Login Designer"
+
+#: includes/install.php:141
+msgctxt "Page slug"
+msgid "login-designer"
+msgstr "login-designer"
+
+#. translators: 1: Name of this plugin
+#: includes/install.php:135
+msgid "<p>This page is used by %1$s to preview the login form in the Customizer.</p>"
+msgstr "<p>%1$s 在外觀自訂器中使用這個頁面預覽登入表單。</p>"
+
+#. translators: %s: site title
+#: includes/template-login-designer.php:231
+msgctxt "site"
+msgid "&larr; Back to %s"
+msgstr "&larr; 返回《%s》"
+
+#: includes/template-login-designer.php:223
+msgid "Lost your password?"
+msgstr "忘記密碼？"
+
+#: includes/template-login-designer.php:217
+msgid "Register"
+msgstr "註冊"
+
+#: includes/template-login-designer.php:212
+msgid "Click on the elements below the form to modify each one."
+msgstr "點擊表單下方的元素即可進行修改。"
+
+#: includes/template-login-designer.php:200
+msgid "Remember Me"
+msgstr "保持登入"
+
+#: includes/template-login-designer.php:186
+msgid "Show Password"
+msgstr "顯示密碼"
+
+#: includes/class-login-designer-customizer-output.php:103
+#: includes/template-login-designer.php:173
+msgid "Username or Email Address"
+msgstr "使用者名稱或電子郵件地址"
+
+#: includes/template-login-designer.php:159
+msgid "Click on the logo below to upload your own and set the image's height and width."
+msgstr "點擊下方標誌以上傳網站專屬標誌，並設定圖片的高度及寬度。"
+
+#: includes/template-login-designer.php:155
+msgid "Click here to select a display template for your login page."
+msgstr "點擊這裡以選取要套用於登入頁面的顯示範本。"
+
+#: includes/template-login-designer.php:153
+msgid "Click here to upload a background image, choose from the gallery and set a background color."
+msgstr "點擊這裡以上傳背景圖片、從圖庫選取圖片及設定背景色彩。"
+
+#: includes/template-login-designer.php:107
+msgid "Powered by WordPress"
+msgstr "本站採用 WordPress 建置"
+
+#: includes/template-login-designer.php:106
+msgid "https://wordpress.org/"
+msgstr "https://tw.wordpress.org/"
+
+#: includes/template-login-designer.php:104
+#: includes/template-login-designer.php:206
+msgid "Log In"
+msgstr "登入"
+
+#. translators: Login screen title. 1: Login screen name, 2: Network or site
+#. name
+#: includes/template-login-designer.php:51
+msgid "%1$s &lsaquo; %2$s &#8212; WordPress"
+msgstr "%1$s &lsaquo; %2$s &#8212; WordPress"
+
+#. translators: 1: Name of the plugin
+#: includes/admin/class-login-designer-notices.php:73
+msgid "<b>The %s page may not be removed.</b> This page is used for login page styling within the Customizer."
+msgstr "<b>請勿移除 %s 頁面。</b>這個頁面在外觀自訂器中用於修改登入頁面樣式。"
+
+#: includes/admin/class-login-designer-feedback.php:282
+msgid "No thanks / I already have"
+msgstr "不，謝謝，我已為外掛撰寫過評論"
+
+#: includes/admin/class-login-designer-feedback.php:281
+msgid "Leave a Review"
+msgstr "撰寫評論"
+
+#. translators: 1. Name, 2. Time
+#: includes/admin/class-login-designer-feedback.php:277
+msgid "You have been using %1$s for %2$s now! Mind leaving a quick review and let me know know what you think of the plugin? I'd really appreciate it!"
+msgstr "這個網站使用 %1$s 已有 %2$s。如果不介意花一點時間發佈快速評論，請讓我們知道你的使用心得。非常感謝各位的時間。"
+
+#: includes/admin/class-login-designer-feedback.php:274
+msgid "Are you enjoying Login Designer?"
+msgstr "Login Designer 對這個網站是否有幫助？"
+
+#: includes/admin/class-login-designer-feedback.php:271
+msgid "Login Designer WordPress Plugin"
+msgstr "Login Designer WordPress 外掛"
+
+#: includes/admin/class-login-designer-feedback.php:135
+msgid "a second"
+msgstr "1 秒"
+
+#. translators: Number of seconds
+#: includes/admin/class-login-designer-feedback.php:133
+msgid "%s seconds"
+msgstr "%s 秒"
+
+#: includes/admin/class-login-designer-feedback.php:126
+msgid "a minute"
+msgstr "1 分鐘"
+
+#. translators: Number of minutes
+#: includes/admin/class-login-designer-feedback.php:124
+msgid "%s minutes"
+msgstr "%s 分鐘"
+
+#: includes/admin/class-login-designer-feedback.php:117
+msgid "an hour"
+msgstr "1 小時"
+
+#. translators: Number of hours
+#: includes/admin/class-login-designer-feedback.php:115
+msgid "%s hours"
+msgstr "%s 小時"
+
+#: includes/admin/class-login-designer-feedback.php:108
+msgid "a day"
+msgstr "1 天"
+
+#. translators: Number of days
+#: includes/admin/class-login-designer-feedback.php:106
+msgid "%s days"
+msgstr "%s 天"
+
+#: includes/admin/class-login-designer-feedback.php:99
+msgid "a week"
+msgstr "1 週"
+
+#. translators: Number of weeks
+#: includes/admin/class-login-designer-feedback.php:97
+msgid "%s weeks"
+msgstr "%s 週"
+
+#: includes/admin/class-login-designer-feedback.php:90
+msgid "a year"
+msgstr "1 年"
+
+#. translators: Number of years
+#: includes/admin/class-login-designer-feedback.php:88
+msgid "%s years"
+msgstr "%s 年"
+
+#: includes/class-login-designer-customizer-scripts.php:173
+msgid "Attention! You are attempting to reset all custom styling added to Login Designer. Please note that this action is irreversible. Proceed?"
+msgstr "即將重設 Login Designer 之前設定過的全部自訂樣式。請注意，這項操作無法回復，是否繼續進行？"
+
+#: includes/class-login-designer-customizer-scripts.php:172
+msgid "Close"
+msgstr "關閉"
+
+#: includes/class-login-designer-customizer-scripts.php:171
+msgid "Install New Template"
+msgstr "安裝新範本"
+
+#. translators: 1: Name of this site
+#: includes/class-login-designer-frontend-settings.php:39
+msgid "Log in to %s"
+msgstr "登入《%s》"
+
+#: includes/class-login-designer-brand.php:350
+msgid "Please define an SVG icon filename."
+msgstr "請定義 SVG 圖示的檔案名稱。"
+
+#: includes/class-login-designer-brand.php:345
+msgid "Please define default parameters in the form of an array."
+msgstr "請定義用於陣列形式內的預設參數。"
+
+#: includes/class-login-designer-brand.php:128
+msgid "Get Login Designer today"
+msgstr "立即取得 Login Designer"
+
+#: includes/class-login-designer-brand.php:127
+msgid "Powered by"
+msgstr "這個網站採用"
+
+#: includes/class-login-designer-customizer.php:311
+msgid "Default"
+msgstr "預設"
+
+#: includes/class-login-designer-customizer.php:297
+msgid "Scroll"
+msgstr "捲動"
+
+#: includes/class-login-designer-customizer.php:296
+msgid "Fixed"
+msgstr "固定"
+
+#: includes/class-login-designer-customizer.php:293
+msgid "Center Bottom"
+msgstr "正下方"
+
+#: includes/class-login-designer-customizer.php:292
+msgid "Center Center"
+msgstr "正中央"
+
+#: includes/class-login-designer-customizer.php:291
+msgid "Center Top"
+msgstr "正上方"
+
+#: includes/class-login-designer-customizer.php:290
+msgid "Right Bottom"
+msgstr "右下方"
+
+#: includes/class-login-designer-customizer.php:289
+msgid "Right Center"
+msgstr "中右方"
+
+#: includes/class-login-designer-customizer.php:288
+msgid "Right Top"
+msgstr "右上方"
+
+#: includes/class-login-designer-customizer.php:287
+msgid "Left Bottom"
+msgstr "左下方"
+
+#: includes/class-login-designer-customizer.php:286
+msgid "Left Center"
+msgstr "中左方"
+
+#: includes/class-login-designer-customizer.php:285
+msgid "Left Top"
+msgstr "左上方"
+
+#: includes/class-login-designer-customizer.php:282
+msgid "Contain"
+msgstr "將圖片完整置於區域中"
+
+#: includes/class-login-designer-customizer.php:281
+msgid "Cover"
+msgstr "覆蓋全區"
+
+#: includes/class-login-designer-customizer.php:280
+msgid "Auto"
+msgstr "自動"
+
+#: includes/class-login-designer-customizer.php:277
+msgid "Tile Vertically"
+msgstr "垂直並排顯示"
+
+#: includes/class-login-designer-customizer.php:276
+msgid "Tile Horizontally"
+msgstr "水平並排顯示"
+
+#: includes/class-login-designer-customizer.php:275
+msgid "Tile"
+msgstr "並排顯示"
+
+#: includes/class-login-designer-customizer.php:274
+msgid "No Repeat"
+msgstr "不重複"
+
+#: includes/class-login-designer-customizer.php:160
+msgid "Discover Add-ons"
+msgstr "尋找附加元件"
+
+#: includes/class-login-designer-customizer.php:119
+msgid "Templates"
+msgstr "範本"
+
+#: includes/class-login-designer-customizer.php:110
+msgid "Styles"
+msgstr "樣式"
+
+#: includes/class-login-designer-customizer.php:101
+msgid "Click the Templates icon at the top left of the preview window to change your template. To customize further, simply click on any element, or it's corresponding shortcut icon, to edit it's styling. "
+msgstr "點擊預覽視窗左上方的 [範本] 圖示以變更範本。如需進一步自訂，僅需點擊任何元素或對應的捷徑圖示，便可編輯樣式。"
+
+#: includes/settings/remember.php:22
+msgid "Easily customize the Remember Me element on the login form."
+msgstr "自訂登入表單中的 [保持登入] 元素。"
+
+#: includes/settings/remember.php:21
+msgid "Remember"
+msgstr "保持登入"
+
+#: includes/settings/fields.php:343
+msgid "Change the text field font, color and size."
+msgstr "變更文字欄位的字型、色彩及大小。"
+
+#: includes/settings/fields.php:317
+msgid "Shadow Inset"
+msgstr "陰影內凹"
+
+#: includes/settings/fields.php:115
+msgid "Margin Bottom"
+msgstr "下邊界"
+
+#: includes/settings/fields.php:22
+msgid "Customize the full display appearance of the login form input fields."
+msgstr "自訂登入表單輸入欄位的完整顯示外觀。"
+
+#: includes/settings/fields.php:21
+msgid "Fields"
+msgstr "欄位"
+
+#: includes/settings/branding.php:113
+msgid "Upper Right"
+msgstr "右上方"
+
+#: includes/settings/branding.php:112
+msgid "Bottom Middle"
+msgstr "正下方"
+
+#: includes/settings/branding.php:111
+msgid "Bottom Right"
+msgstr "右下方"
+
+#: includes/settings/branding.php:110
+msgid "Bottom Left"
+msgstr "左下方"
+
+#: includes/settings/branding.php:43
+msgid "Enable"
+msgstr "啟用"
+
+#: includes/settings/branding.php:22
+msgid "Show some love and add a Powered by Login Designer badge to your login page."
+msgstr "協助我們宣傳外掛並在這個網站的登入頁面加入 [這個網站採用 Login Designer] 字樣。"
+
+#: includes/settings/branding.php:21
+msgid "Branding"
+msgstr "協助宣傳外掛"
+
+#: includes/settings/form.php:204
+msgid "Vertical Padding"
+msgstr "垂直邊框間距"
+
+#: includes/settings/form.php:180
+msgid "Transparent"
+msgstr "透明"
+
+#: includes/settings/form.php:152
+msgid "Side Padding"
+msgstr "側邊邊框間距"
+
+#: includes/settings/form.php:22
+msgid "Easily customize the login form wrapper default styling."
+msgstr "依照需求自訂登入表單預設樣式。"
+
+#: includes/settings/form.php:21
+msgid "Form"
+msgstr "表單"
+
+#: includes/settings/logo.php:172
+msgid "Disable Logo"
+msgstr "停用標誌"
+
+#: includes/settings/logo.php:115
+msgid "Height"
+msgstr "高度"
+
+#: includes/settings/logo.php:86 includes/settings/form.php:233
+msgid "Width"
+msgstr "寬度"
+
+#: includes/settings/logo.php:63
+msgid "Select a page for your logo to link to. This is typically your site's home page."
+msgstr "選取標誌要進行連結的頁面，通常會設定為網站首頁。"
+
+#: includes/settings/logo.php:62
+msgid "URL"
+msgstr "網址"
+
+#: includes/settings/logo.php:22
+msgid "Add your own logo. Logos will display at 50% height and width to account for retina devices. Modify the height and width below."
+msgstr "新增網站專屬標誌。這個標誌在 Retina 裝置上僅會顯示四分之一大小。請在下方修改高度及寬度。"
+
+#: includes/settings/logo.php:21 includes/settings/branding.php:87
+msgid "Logo"
+msgstr "標誌"
+
+#: includes/settings/checkbox.php:22
+msgid "Customize the Remember Me checkbox input element on the login form."
+msgstr "自訂登入表單 [保持登入] 核取方塊的 input 元素。"
+
+#: includes/settings/checkbox.php:21
+msgid "Checkbox"
+msgstr "核取方塊"
+
+#: includes/settings/background.php:130
+msgid "Attachment"
+msgstr "附件"
+
+#: includes/settings/background.php:90
+msgid "Repeat"
+msgstr "重複方式"
+
+#: includes/settings/background.php:67
+msgid "Pick a background image from our curated collection of beautiful images."
+msgstr "請從下方精選的精美圖庫中選取背景圖片。"
+
+#: includes/settings/background.php:66
+msgid "Background Gallery"
+msgstr "背景圖庫"
+
+#: includes/settings/background.php:24
+msgid "Upload Background"
+msgstr "上傳背景圖片"
+
+#: includes/class-login-designer-customizer-output.php:104
+#: includes/settings/labels.php:60 includes/template-login-designer.php:182
+msgid "Password"
+msgstr "密碼"
+
+#: includes/class-login-designer-templates.php:241
+#: includes/class-login-designer-templates.php:302
+#: includes/settings/labels.php:41
+msgid "Username"
+msgstr "使用者名稱"
+
+#: includes/settings/labels.php:22
+msgid "Modify the text labels and style them however you like."
+msgstr "依照需求修改文字標籤及樣式。"
+
+#: includes/settings/labels.php:21
+msgid "Labels"
+msgstr "標籤"
+
+#. translators: 1: Opening link, 2: Closing link
+#: includes/settings/license.php:41
+msgid "Enter a %1$slicense key%2$s to enable remote updates, unlock premium templates and activate professional extensions."
+msgstr "輸入%1$s授權金鑰%2$s後便可啟用遠端更新、使用付費版範本及啟用專業擴充功能。"
+
+#: includes/settings/license.php:39
+msgid "License"
+msgstr "使用授權"
+
+#: includes/settings/below.php:165
+msgid "Back To"
+msgstr "返回"
+
+#: includes/settings/below.php:142
+msgid "Lost Password"
+msgstr "遺失密碼"
+
+#: includes/settings/labels.php:131 includes/settings/logo.php:144
+#: includes/settings/branding.php:107 includes/settings/remember.php:93
+#: includes/settings/background.php:150 includes/settings/below.php:114
+msgid "Position"
+msgstr "位置"
+
+#: includes/settings/below.php:22
+msgid "Modify elements below the login form."
+msgstr "修改登入表單下方的元素。"
+
+#: includes/settings/below.php:21
+msgid "Below Form"
+msgstr "表單下方"
+
+#: includes/settings/labels.php:159 includes/settings/fields.php:413
+#: includes/settings/remember.php:121 includes/settings/background.php:171
+#: includes/settings/button.php:361 includes/settings/below.php:92
+msgid "Color"
+msgstr "色彩"
+
+#: includes/settings/labels.php:102 includes/settings/checkbox.php:44
+#: includes/settings/fields.php:385 includes/settings/remember.php:64
+#: includes/settings/background.php:110 includes/settings/button.php:333
+#: includes/settings/below.php:64
+msgid "Size"
+msgstr "大小"
+
+#: includes/settings/labels.php:80 includes/settings/fields.php:363
+#: includes/settings/remember.php:42 includes/settings/button.php:311
+#: includes/settings/below.php:42
+msgid "Font"
+msgstr "字型"
+
+#: includes/settings/button.php:291
+msgid "Change the button font, color and size."
+msgstr "變更按鈕的字型、色彩及大小。"
+
+#: includes/settings/fields.php:342 includes/settings/branding.php:66
+#: includes/settings/button.php:290
+msgid "Text"
+msgstr "文字"
+
+#: includes/settings/form.php:123 includes/settings/fields.php:289
+#: includes/settings/button.php:260
+msgid "Shadow Opacity"
+msgstr "陰影不透明度"
+
+#: includes/settings/form.php:94 includes/settings/fields.php:260
+#: includes/settings/button.php:231
+msgid "Shadow"
+msgstr "陰影"
+
+#: includes/settings/form.php:65 includes/settings/checkbox.php:144
+#: includes/settings/fields.php:231 includes/settings/button.php:202
+msgid "Radius"
+msgstr "圓角半徑"
+
+#: includes/settings/fields.php:202 includes/settings/button.php:173
+msgid "Padding Bottom"
+msgstr "下邊框間距"
+
+#: includes/settings/fields.php:173 includes/settings/button.php:144
+msgid "Padding Top"
+msgstr "上邊框間距"
+
+#: includes/settings/fields.php:144 includes/settings/button.php:115
+msgid "Padding"
+msgstr "邊框間距"
+
+#: includes/settings/checkbox.php:122 includes/settings/fields.php:93
+#: includes/settings/button.php:93
+msgid "Border Color"
+msgstr "框線色彩"
+
+#: includes/settings/checkbox.php:94 includes/settings/fields.php:65
+#: includes/settings/button.php:65
+msgid "Border"
+msgstr "框線"
+
+#: includes/settings/form.php:43 includes/settings/checkbox.php:72
+#: includes/settings/fields.php:43 includes/settings/button.php:43
+msgid "Background"
+msgstr "背景"
+
+#: includes/settings/button.php:22
+msgid "Customize the full display appearance of the login submit button."
+msgstr "自訂登入按鈕完整顯示外觀。"
+
+#: includes/settings/button.php:21
+msgid "Button"
+msgstr "按鈕"
+
+#: includes/class-login-designer-customizer.php:159 login-designer.php:505
+#: login-designer.php:546
+msgid "Extensions"
+msgstr "擴充功能"
+
+#: login-designer.php:455
+msgid "Pro"
+msgstr "Pro"
+
+#: login-designer.php:443
+msgid "Support"
+msgstr "技術支援"
+
+#: includes/class-login-designer-customizer.php:128 login-designer.php:429
+msgid "Settings"
+msgstr "設定"
+
+#. translators: Name of this plugin
+#: login-designer.php:349
+msgid "<p>This page is used by <a href=\"%1$s\">%2$s</a> to preview the login forms in the Customizer. Please don't delete this page. Thanks!</p>"
+msgstr "<p><a href=\"%1$s\" target=\"_blank\">%2$s</a> 在外觀自訂器中使用這個頁面預覽登入表單。請勿刪除這個頁面！</p>"
+
+#: login-designer.php:86 login-designer.php:97
+msgid "Something went wrong."
+msgstr "執行時發生錯誤。"
+
+#. Author of the plugin
+msgid "Rich Tabor"
+msgstr "Rich Tabor"
+
+#. Description of the plugin
+msgid "The easiest way to completely customize your WordPress login page. Create stunning login templates in seconds with the most beautiful and elegant login customizer WordPress plugin."
+msgstr "這個外掛能以最簡易的方式完全自訂 WordPress 登入頁面，並讓使用者在美觀、雅緻的登入自訂器中快速建立出色的登入範本。"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://logindesigner.com"
+msgstr "https://logindesigner.com"
+
+#. Plugin Name of the plugin
+#: includes/class-login-designer-theme-template.php:62
+#: includes/admin/class-login-designer-feedback.php:311
+#: includes/class-login-designer-customizer.php:99 login-designer.php:209
+#: login-designer.php:237
+msgid "Login Designer"
+msgstr "Login Designer"
